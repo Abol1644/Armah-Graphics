@@ -20,7 +20,7 @@
     border-radius: 20px;
 }
 body{
-    background-color: #ffffff;
+    background: linear-gradiant(to bottom righ, #333333, #121212);
 }
 .sec-header{
     margin: 15px;
