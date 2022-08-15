@@ -1,0 +1,36 @@
+.header-text{
+    margin: 10px;
+    font-family:"FRIZON";
+    font-size: 30px;
+    text-align: center;
+    color: #04c39b;
+}
+.header-text-fa{
+    margin: 10px;
+    font-family:"IRANSansWeb";
+    font-size: 20px;
+    text-align: center;
+    color: #04c39b;
+}
+.header-div{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #04658c;
+}
+body{
+    background-color: #dafff7;
+}
+.sec-header{
+    margin: 15px;
+    margin-right: 25px;
+    margin-top: 20ps;
+    text-align: right;
+    font-family: "IRANSansWeb";
+    color: #04658c;
+}
+.about-page{
+    margin: 10px;
+    text-align: right;
+    font-family: "IRANSansWeb";
+    color: #04658c;
+}
