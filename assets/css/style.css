@@ -127,7 +127,7 @@ nav img {
 }
 
 .hamburger.actived .bar {
-  transform: translate(-40px);
+  transform: translate(40px);
   opacity: 0;
 }
 
